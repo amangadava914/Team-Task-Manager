@@ -2,6 +2,9 @@
 
 A full-stack task management application designed to help teams organize, track, and manage their work efficiently. This project focuses on real-world collaboration features, clean UI, and scalable backend architecture.
 
+This is the project live link that i have deployed using Railway
+team-task-manager-production-20760.up.railway.app
+
 ---
 
 ## 📌 Overview
